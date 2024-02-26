@@ -4,9 +4,9 @@ I'm a **Python** Developer and the creator of the website [python.study](https:/
 I also write articles about Python on [Medium](https://medium.com/@apps.merkurev).
 
 My recent posts:
-- [Creating a Powerful Interactive CLI App with ChatGPT in Python](https://python.study/p/creating-interactive-cli-app-with-chatgpt-in-python/)
-- [Subtle Aspects of Python's Generator Function](https://python.study/p/subtle-aspects-of-pythons-generator-function/)
-- [Download large file in Python with beautiful progress bar](https://python.study/p/download-large-file-in-python-with-progress-bar/)
+- [Creating a Powerful Interactive CLI App with ChatGPT in Python](https://medium.com/ai-mind-labs/creating-a-powerful-interactive-cli-app-with-chatgpt-in-python-2e05dc4b33b2)
+- [Subtle Aspects of Python's Generator Function](https://medium.com/ai-mind-labs/subtle-aspects-of-pythons-generator-function-3a244e197da)
+- [Download large file in Python with beautiful progress bar](https://medium.com/ai-mind-labs/download-large-file-in-python-with-beautiful-progress-bar-f4f86b394ad7)
 
 In addition, I have a rich experience in C++ development from the past, and I dabble a bit in [Go as well](https://github.com/amerkurev/doku).
 
