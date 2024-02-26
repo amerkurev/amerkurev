@@ -3,7 +3,7 @@ I'm a **Python** Developer and the creator of the website [python.study](https:/
 
 I also write articles about Python on [Medium](https://medium.com/@apps.merkurev).
 
-In addition, I have a rich experience in C++ development from the past, and I dabble a bit in Go as well.
+In addition, I have a rich experience in C++ development from the past, and I dabble a bit in [Go as well](https://github.com/amerkurev/doku).
 
 And when the need arises, and there's no one else to help, I can also write in JavaScript, although my main focus is **backend** development.
 
